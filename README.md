@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GALDII
+- 👋 Hi, I’m @GLADIS
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on data science projects
