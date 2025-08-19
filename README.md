@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I’m Gladis Sam Prakash  <br><br>💡 AI Engineer | MSc Data Science | Full-Stack Developer | React Developer  <br><br>- 🔭 Currently working on **Solar Flare Prediction (SDO Dataset)** and **AI Chatbot with RAG**  <br>- 🌱 Exploring **Explainable AI (XAI), Deep Learning, and Full-Stack ML Applications**  <br>- 🛠️ Tech Stack: **Python | React | Node.js | TensorFlow | PyTorch | MySQL | **  <br>- 📊 Interests: Machine Learning, NLP, Computer Vision, Generative AI  <br>- 🎯 Goal: To build scalable, intelligent, and explainable AI systems  <br>- 📫 Reach me at: [LinkedIn] : https://www.linkedin.com/in/gladis-sam-3125b122a/ | [Email] : gladissam.official@gmail.com   <br>
+ 💫 About Me:
+👋 Hi, I’m Gladis Sam Prakash  <br><br>💡 AI Engineer | MSc Data Science | Full-Stack Developer | React Developer  <br><br>- 🔭 Currently working on **Solar Flare Prediction (SDO Dataset)** and **AI Chatbot with RAG**  <br>- 🌱 Exploring **Explainable AI (XAI), Deep Learning, and Full-Stack ML Applications**  <br>- 🛠️ Tech Stack: **Python | React | Node.js | TensorFlow | PyTorch | MySQL | **  <br>- 📊 Interests: Machine Learning, NLP, Computer Vision, Generative AI  <br>- 🎯 Goal: To build scalable, intelligent, and explainable AI systems  <br>- 📫 Reach me at: [LinkedIn] : https://www.linkedin.com/in/gladis-sam-3125b122a/ | [Email] : gladissam.official@gmail.com   <br>
 
 
 ## 🌐 Socials:
